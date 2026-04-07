@@ -1,0 +1,7 @@
+{
+  "name": "AI Answering Machine",
+  "description": "A conversational AI answering machine that takes messages for you using real-time voice interaction, powered by the Gemini API.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
